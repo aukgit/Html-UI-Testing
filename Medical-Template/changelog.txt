@@ -1,0 +1,16 @@
+......... V 1.4 .........
+1: Add new home page option
+2: Add new slider
+3: Add some new content section
+
+......... V 1.3 .........
+1: Fixed some issues on desktop and mobile
+2: Add PSD Files
+
+......... V 1.2 .........
+1: Fixed Some Minor Tweaks
+2: Add Font icons in Font Folder	
+
+......... V 1.1 .........
+1: Initial Release
+
