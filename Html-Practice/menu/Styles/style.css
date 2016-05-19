@@ -1,0 +1,14 @@
+﻿.red {
+  color: aqua;
+  background-color: black;
+}
+.inline {
+  display: inline;
+}
+.menu ul li {
+  float: left;
+}
+.menu ul li a {
+  font-size: 30px;
+}
+/*# sourceMappingURL=style.css.map */
